@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Aryan<br><br>🚀 Entrepreneur | Tech Explorer | Problem Solver  <br><br>I love building things that solve real-world problems.  <br>Currently working on startups, learning ML, and improving my CS fundamentals.<br><br>💡 Interests:<br>- Machine Learning & Data Science  <br>- Startups & Finance  <br>- System Design  <br>- Productivity & Self-Improvement  <br><br>📌 Motto: Learn. Build. Improve. Repeat.<br><br>Always open to collaboration and learning new things.<br>
+Hi 👋 I'm Aryan<br><br>🚀 Tech Explorer | Problem Solver  <br><br>I love building things that solve real-world problems.  <br>Currently working on startups, learning ML, and improving my CS fundamentals.<br><br>💡 Interests:<br>- Machine Learning & Data Science  <br>- Startups & Finance  <br>- System Design  <br>- Productivity & Self-Improvement  <br><br>📌 Motto: Learn. Build. Improve. Repeat.<br><br>Always open to collaboration and learning new things.<br>
 
 
 ## 🌐 Socials:
